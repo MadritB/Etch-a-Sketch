@@ -29,3 +29,7 @@ body {
     border-radius: 2px;
     box-sizing: border-box;
 }
+
+.grid.element:hover {
+    background-color: rgb(49, 34, 34);
+}
